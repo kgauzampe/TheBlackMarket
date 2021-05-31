@@ -6,4 +6,6 @@ const products = [
         price: 11000,
         countInStock: 14
     },
-]
+];
+
+module.exports = products;
